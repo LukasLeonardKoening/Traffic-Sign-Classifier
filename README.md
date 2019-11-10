@@ -14,7 +14,7 @@ This project from Udacity‘s Self-Driving Car Engineer Nanodegree program appli
 
 ### Structure
 The whole code can be found in the `Traffic_Sign_Classifier.ipynb` Notebook or in the `report.html` file. The data is saved in the additional `data` folder.
-The images data is mainly from the [German Traffic Sign Data Set](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset) or from my own dash cam.
+The images data is mainly from the [German Traffic Sign Data Set](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset) or from my own dash cam. You have to extract the train.p.zip into the same folder, if you want to use it. 
 
 ---
 ## 2 - Rubric Points
